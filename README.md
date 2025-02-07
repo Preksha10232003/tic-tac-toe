@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game
 Welcome to the Tic-Tac-Toe game
 
-##Teechnologies Used
+## Technologies Used
 -HTML
 -CSS
 -JavaScript
